@@ -4,3 +4,8 @@ var playlist = {
   egyptCentral: 'white rabbit',
   panicAtTheDisco: 'old fashioned'
 }
+
+function updatePlaylist(playlist, aritistName, songTitle) {
+  playlist[artistName] = songTitle
+  return playlist
+}
