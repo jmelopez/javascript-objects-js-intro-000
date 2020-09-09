@@ -1,6 +1,6 @@
 var playlist = {
-  avenged sevenfold: 'a little piece of heaven',
-  five finger death punch: 'a little bit off',
-  egypt central: 'white rabbit',
-  panic at the disco: 'old fashioned'
+  avengedSevenfold: 'a little piece of heaven',
+  fiveFingerDeathPunch: 'a little bit off',
+  egyptCentral: 'white rabbit',
+  panicAtTheDisco: 'old fashioned'
 }
