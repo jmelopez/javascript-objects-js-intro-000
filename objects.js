@@ -6,6 +6,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, aritistName, songTitle) {
-  playlist['papaRoach'] = 'elevate'
+  playlist[`${artistName}`] = `${songTitle}`
   return playlist
 }
